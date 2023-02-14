@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there!
+
+My name is Cait, I'm software developer and designer. 
+
+To get in touch reach out on (Linkedin)[https://www.linkedin.com/in/caitlin-reid/].
 
 <!--
 **caitreid/caitreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is Cait, I'm software developer and designer. 
+My name is Cait, I'm software developer based in NYC.
 
 To get in touch, reach out on [Linkedin](https://www.linkedin.com/in/caitlin-reid/).
 

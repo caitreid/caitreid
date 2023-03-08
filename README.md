@@ -1,8 +1,10 @@
 ### Hi there!
 
-My name is Cait, I'm software developer based in NYC.
+My name is Cait, I'm an app developer and designer based in NYC. 
 
-To get in touch, reach out on [Linkedin](https://www.linkedin.com/in/caitlin-reid/).
+I've worked in-house for Columbia University and The Whitney Museum of American Art. My expertise lies at the intersection of design and development. I've worked professionally in Ruby on Rails, Drupal, and built my own apps in Express.js, React, Django.
+
+To get in touch, please reach out on [Linkedin](https://www.linkedin.com/in/caitlin-reid/).
 
 <!--
 **caitreid/caitreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

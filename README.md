@@ -4,8 +4,6 @@ My name is Cait, I'm an app developer and designer based in NYC.
 
 I've worked in-house for Columbia University and The Whitney Museum of American Art using Ruby on Rails, Drupal, and Vue.js. I've also enjoyed building my own apps in Express.js, React, Django. Currently I'm a Laravel and Vue.js developer for The University of Washington.
 
-Checkout my current portfolio here: [caitlinreid.net](http:/www.caitlinreid.net/).
-
 To get in touch, please reach out on [Linkedin](https://www.linkedin.com/in/caitlin-reid/).
 
 <!--

@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is Cait, I'm a creative technologist based in NYC + SF. 
+My name is Cait, I'm a software engineer and designer based in NYC. 
 
 I've worked in-house for Columbia University and The Whitney Museum of American Art using Ruby on Rails, Drupal, and Vue.js. I've also enjoyed building my own apps in Express.js, React, Django. Currently I'm a Laravel and Vue.js developer for The University of Washington.
 

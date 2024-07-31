@@ -4,8 +4,6 @@ My name is Cait, I'm a software engineer and designer based in NYC.
 
 I've worked in-house for Columbia University, The Whitney Museum of American Art & The University of Washington using Laravel, Ruby on Rails, Drupal, and Vue.js. I've also enjoyed building my own apps in Express.js, React, Django. Currently I'm a developer for Wirecutter at The New York Times.
 
-To get in touch, please reach out on [Linkedin](https://www.linkedin.com/in/caitlin-reid/).
-
 <!--
 **caitreid/caitreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

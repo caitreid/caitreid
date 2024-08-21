@@ -1,7 +1,6 @@
 ### Hi there!
 
-My name is Cait, I'm a software engineer and designer based in NYC. 
-I'm a developer for Wirecutter at The New York Times.
+My name is Cait, I'm a software engineer and designer based in NYC currently working for Wirecutter at The New York Times.
 
 <!--
 **caitreid/caitreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

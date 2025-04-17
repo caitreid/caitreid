@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is Cait, I'm an engineer based in NYC.
+My name is Cait, I'm a designer and engineer based in NYC.
 
 <!--
 **caitreid/caitreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
